@@ -1,4 +1,9 @@
-<style>
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -6,15 +11,17 @@ body {
   background-color: #f9f9f9;
   color: #333;
 }
+
 h1 {
   color: #2c3e50;
 }
+
 h2 {
   color: #2980b9;
   margin-top: 30px;
 }
+
 ul {
   list-style-type: square;
   padding-left: 20px;
 }
-</style>
